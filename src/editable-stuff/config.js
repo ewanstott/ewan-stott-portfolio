@@ -55,7 +55,7 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "ewanstott", //i.e."johnDoe12Gh"
-  reposLength: 6,
+  reposLength: 0,
   specificRepos: ["blimp", "simpsons-api-react", "sunni_solar_api", "todo-app-main", "slack_clone_project", "javascript-drum-kit",],
 };
 
