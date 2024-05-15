@@ -33,24 +33,20 @@ Dependencies defined in package.json:
 
 ## Structure ⚓
 
-- Navigation bar (optional)
+- Navigation bar
 - Body
   - Name | Profession
-  - Contact / Follow / Find me / Facebook / LinkedIn / GitHub / Instagram / Email / CodePen
+  - Contact / Follow / Find me / LinkedIn / GitHub / Email
   - Resume | About me
 - About Me
-  - Display picture (optional)
+  - Display picture
   - About myself, my Interests, Goals and Hobbies
   - Things I'm good at (Skills)
   - Resume button
-- Recent Projects (using GitHub API) (optional)
-- Leadership (optional)
-  - Paragraph
-  - Carousel images
-- Skills (optional)
-  - Technical Skills
-  - Soft Skills
+- Recent Projects (using GitHub API)
+- Skills
+  - Fronend Skills
+  - Backend Skills
 - Footer
-  - Footer Note (optional)
-  - Copyrights - open source
-  - Acknowledgements
+  - Footer Note
+  - Copyrights
