@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Ewan",
   middleName: "",
   lastName: "Stott",
-  message: " Software Engineer Passionate about changing the world with technology. ",
+  message: " Software Engineer specializing in Javascript, React, Typescript, Node and MySQL. ",
   icons: [
     {
       image: "fa-github",
@@ -103,8 +103,6 @@ const skills = {
     { name: "Material UI", value: 95 },
   ],
   softSkills: [
-    { name: "Javascript", value: 90 },
-    { name: "React.js", value: 90 },
     { name: "Python", value: 70 },
     { name: "C", value: 50 },
     { name: "Node", value: 80 },
