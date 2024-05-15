@@ -7,7 +7,7 @@ import { Jumbotron } from "./migration";
 import { Container } from "react-bootstrap";
 import { useScrollPosition } from "../../hooks/useScrollPosition";
 
-const Skills = React.forwardRef(({ heading, skills }, ref) => {
+const Skills = React.forwardRef(({ heading, Frontend, Backend }, ref) => {
   const skillsTabRef = React.useRef(null);
   const [isScrolled, setIsScrolled] = React.useState(false);
   //const navbarDimensions = useResizeObserver(navbarMenuRef);
@@ -37,7 +37,7 @@ const Skills = React.forwardRef(({ heading, skills }, ref) => {
             title="Technical Skills"
           >
             <Row className="pt-3 px-1">
-              <SkillsTab skills={skills.Frontend} isScrolled={isScrolled} />
+              <SkillsTab skills={Frontend} isScrolled={isScrolled} />
             </Row>
           </Tab>
           <Tab
@@ -46,7 +46,7 @@ const Skills = React.forwardRef(({ heading, skills }, ref) => {
             title="Soft Skills"
           >
             <Row className="pt-3 px-1">
-              <SkillsTab skills={skills.Backend} isScrolled={isScrolled} />
+              <SkillsTab skills={Backend} isScrolled={isScrolled} />
             </Row>
           </Tab>
         </Tabs>
