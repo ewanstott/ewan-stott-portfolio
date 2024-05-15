@@ -87,7 +87,7 @@ const leadership = {
 const skills = {
   show: true,
   heading: "Skills",
-  hardSkills: [
+  Frontend: [
     { name: "Javascript", value: 90 },
     { name: "Typescript", value: 85 },
     { name: "React.js", value: 90 },
@@ -102,7 +102,7 @@ const skills = {
     { name: "Tailwind", value: 95 },
     { name: "Material UI", value: 95 },
   ],
-  softSkills: [
+  Backend: [
     { name: "Javascript", value: 90 },
     { name: "React.js", value: 90 },
     { name: "Python", value: 70 },
