@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">Developer's Portfolio ✨</h1>
+  <h1 align="center">Ewan's Software Engineer Portfolio ✨</h1>
 
   <p align="center">
     This is my personal static website/portfolio hosted with GitHub Pages, built to showcase my recent projects. 
