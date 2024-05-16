@@ -56,7 +56,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "ewanstott", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["blimp", "simpsons-api-react", "sunni_solar_api", "todo-app-main", "slack_clone_project", "javascript-drum-kit",],
+  specificRepos: ["blimp", "blimp-back-end", "simpsons-api-react", "sunni_solar_api", "todo-app-main", "slack_clone_project", "javascript-drum-kit",],
 };
 
 // Leadership SECTION
