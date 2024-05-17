@@ -43,7 +43,8 @@ const about = {
   imageSize: 375,
   message:
     "I'm a Full Stack Software Engineer specializing in Javascript, React, Typescript, Node and both SQL and NoSQL databases. I'm all about building things with code to solve real-world problems. Give me a shout, let's create something together!",
-  resume: require("../editable-stuff/ewan-stott-software-engineer-resume.pdf"),
+  // resume: require("../editable-stuff/ewan-stott-software-engineer-resume.pdf"),
+  resume: "https://docs.google.com/document/d/1-iQ6xDtpCJ0GJ_jwkVLoKSTXx0M5Loz8YMNb-UjcZV8/edit?usp=sharing",
 };
 
 // PROJECTS SECTION
