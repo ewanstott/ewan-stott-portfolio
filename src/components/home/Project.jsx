@@ -8,6 +8,7 @@ import axios from "axios";
 const dummyProject = {
   name: null,
   description: null,
+  homepage: null,
   svn_url: null,
   stargazers_count: null,
   languages_url: null,
