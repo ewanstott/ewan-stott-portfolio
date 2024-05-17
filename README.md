@@ -7,7 +7,7 @@
     This is my personal static website/portfolio hosted with GitHub Pages, built to showcase my recent projects. 
     <br/>
     <strong>Site URL / Demo » </strong> 
-    <a href="https://ewanstott.github.io/home">ewanstott.github.io/home</a>
+    <a href="https://ewanstott.github.io/home">https://ewan-stott-portfolio.netlify.app</a>
     <br />
   </p>
 </p>
