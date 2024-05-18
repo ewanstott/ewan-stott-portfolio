@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe927caf.css",
-    "main.js": "/static/js/main.015394b0.js",
+    "main.css": "/static/css/main.b96025db.css",
+    "main.js": "/static/js/main.eb437a2c.js",
     "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
     "static/media/ewan-stott.png": "/static/media/ewan-stott.f08a381cc09ad07be4d9.png",
     "static/media/expedia-logo.png": "/static/media/expedia-logo.d35cc9b90531982160fa.png",
     "index.html": "/index.html",
-    "main.fe927caf.css.map": "/static/css/main.fe927caf.css.map",
-    "main.015394b0.js.map": "/static/js/main.015394b0.js.map",
+    "main.b96025db.css.map": "/static/css/main.b96025db.css.map",
+    "main.eb437a2c.js.map": "/static/js/main.eb437a2c.js.map",
     "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe927caf.css",
-    "static/js/main.015394b0.js"
+    "static/css/main.b96025db.css",
+    "static/js/main.eb437a2c.js"
   ]
 }
