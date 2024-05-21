@@ -57,7 +57,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "ewanstott", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["blimp", "blimp-back-end", "simpsons-api-react", "sunni_solar_api", "todo-app-main", "slack_clone_project", "javascript-drum-kit",],
+  specificRepos: ["blimp", "blimp-back-end", "simpsons-api-react", "sunni_solar_api", "todo-app-main", "netflix-landing-page-clone", "javascript-drum-kit",],
 };
 
 // Leadership SECTION
@@ -104,14 +104,13 @@ const skills = {
     { name: "Material UI", value: 95 },
   ],
   softSkills: [
-    { name: "Python", value: 70 },
-    { name: "C", value: 50 },
     { name: "Node", value: 80 },
     { name: "Express", value: 80 },
-    { name: "Django", value: 80 },
+    { name: "Python", value: 70 },
     { name: "MySQL", value: 75 },
     { name: "Postgres", value: 70 },
     { name: "MongoDB", value: 75 },
+    { name: "Django", value: 80 },
     { name: "Redis", value: 60 },
     { name: "Socket.io", value: 75 },
     { name: "Docker", value: 60 },
@@ -136,7 +135,7 @@ const experiences = {
   heading: "Experience",
   data: [
     {
-      role: 'Software Engineer at Expedia',// Here Add Company Name
+      role: 'Software Engineer at Expedia. Tech: Javascript, React, Typescript, Redux, Jest, Cypress',// Here Add Company Name
       companylogo: require('../assets/img/expedia-logo.png'),
       date: 'January 2024 – Present',
     },
